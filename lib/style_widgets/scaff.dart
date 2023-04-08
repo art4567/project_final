@@ -16,7 +16,7 @@ class MyScaffold extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Container(
-        constraints: BoxConstraints(maxWidth: _maxWidth),
+        //constraints: BoxConstraints(maxWidth: _maxWidth),
         child: _child,
       ),
     );

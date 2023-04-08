@@ -50,8 +50,8 @@ class BallDetailPages extends StatelessWidget {
                           child: Image.asset(
                             project.imageUrl,
                             //fit: BoxFit.cover,
-                            width: 120,
-                            height: 120,
+                            width: 10,
+                            height: 10,
                           ),
                         ),
                       ),
